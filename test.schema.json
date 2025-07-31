@@ -10,7 +10,12 @@
             "const": 0
         }
     },
+    "AnotherTest": {
+        "type": "integer",
+        "const": 1
+    },
     "required": [
-        "Test"
+        "Test",
+        "AnotherTest"
     ]
 }
