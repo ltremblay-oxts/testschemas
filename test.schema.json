@@ -1,0 +1,16 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "$id": "Test schema",
+    "title": "Test",
+    "description": "Testing",
+    "type": "object",
+    "properties": {
+        "Test": {
+            "type": "integer",
+            "const": 0
+        }
+    },
+    "required": [
+        "Teset"
+    ]
+}
