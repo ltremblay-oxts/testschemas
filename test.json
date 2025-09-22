@@ -1,4 +1,4 @@
 {
-    "$schema": "https://raw.githubusercontent.com/ltremblay-oxts/testschemas/refs/heads/main/test.schema.json",
+    "$schema": "https://raw.githubusercontent.com/ltremblay-oxts/testschemas/refs/heads/main/main-schema.json",
     "Test": 0
 }
